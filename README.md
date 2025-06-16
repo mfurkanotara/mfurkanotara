@@ -1,11 +1,10 @@
 <h1 align="center">Selam 👋, Ben Muhammet Furkan.</h1>
 <h3 align="center">Teknolojiyi, oyun oynamayı seven birisiyim. Aynı zamanda yazılımcıyım.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mfurkanotara&label=Profile%20views&color=0e75b6&style=flat" alt="mfurkanotara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mfurkanotara" alt="mfurkanotara" /></a> </p>
 
-- 🔭 Şu anda bu proje üzerinde çalışıyorum: **BrainRush**
+- 🔭 Şu anda bu proje üzerinde çalışıyorum: **Fabrika-Otomasyon-App**
 
 - 📫 Bana nasıl ulaşabilirsiniz? **mfurkanotara0@gmail.com**
 
